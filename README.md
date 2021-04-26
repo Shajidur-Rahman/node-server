@@ -3,8 +3,8 @@
 <h3>how to use the server<h3>
 <p>server('127.0.0.1',3000,'html','home.html','services.html','about.html','contuct.html');</p>
 <h4>
-// N.B. : you can only use 4 files. not more file will be allowed 
-// if you want to add more file you need to edit the module file 
+N.B. : you can only use 4 files. not more file will be allowed 
+if you want to add more file you need to edit the module file 
 </h4>
 <p>
 
